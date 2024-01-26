@@ -1,2 +1,2 @@
-# Piont-teller-Private
- This code is private and it tells the 
+# Point-teller-Private
+ This code is public and it tells the 
